@@ -2,6 +2,7 @@
 
 body {
     background-image: url("Manly Player Images/Background.jpg");
+    SeaEagles.html{ background-image: url("Manly Player Images/Background.jpg");} 
 }
 h1 {
     color:white;
@@ -11,6 +12,9 @@ h2{
     font-family: fantasy
             color:white;
     }
+}
+h3{
+    color:White;
 }
 p {
     font-family: monospace;
