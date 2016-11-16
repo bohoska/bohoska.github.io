@@ -15,11 +15,12 @@ h2{
 p {
     font-family: monospace;
     font-size: 30px;
+    color: aliceblue;
 } 
 ul {
     color:white;
     font-family: fantasy
-    
+   p 
 }
 html {
 background: #505D6E url("download.jpg") no-repeat center center fixed;
